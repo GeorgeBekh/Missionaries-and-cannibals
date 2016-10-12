@@ -10,5 +10,5 @@ package missionariesandcannibals;
  * @author lamp
  */
 public class Cannibal extends Human {
-    
+
 }

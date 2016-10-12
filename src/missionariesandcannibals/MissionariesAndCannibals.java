@@ -13,7 +13,6 @@ import java.util.List;
 public class MissionariesAndCannibals {
 
 	public static void main(String[] args) {
-		Boat blackPearl = new Boat();
 		Coast startCoast = new Coast();
 		Coast targetCoast = new Coast();
 		List<Human> passengers = createPassangers(3);

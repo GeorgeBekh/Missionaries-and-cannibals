@@ -10,5 +10,5 @@ package missionariesandcannibals;
  * @author lamp
  */
 abstract class Human {
-    
+
 }
